@@ -1775,7 +1775,7 @@ def _(html, md, md_unnumbered_list):
                 "Even machine learning models that usually work well",
                 "with small amounts of data, like support vector machines,",
                 "failed to produce good results, and",
-                "more complex decision trees overfit the data.",
+                "more complex decision trees overfitted the data.",
             ),
             html(
                 "More complex linear models that have regularisation",
@@ -1809,7 +1809,7 @@ def _(html, md, md_unnumbered_list):
             html(
                 "Jun Feng was responsible for solving problem 1,",
                 "making use of the imputed data to draw regression lines",
-                "to show the trend, and interpret the resulting trends",
+                "to show the trend, and interpreting the resulting trends",
                 "to draw our conclusions.",
             ),
             html(
