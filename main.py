@@ -1333,7 +1333,7 @@ def _(html, md, md_numbered_list, md_unnumbered_list):
                         "For example, the series for GDP for all countries",
                         "is normalised using z-score normalisation,",
                         "so the GDP values for all countries has",
-                        "a mean value of 0 and a standard deviation of 1",
+                        "a mean value of 0 and a standard deviation of 1.",
                     )
                 ),
             ),
