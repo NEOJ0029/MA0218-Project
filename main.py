@@ -1674,7 +1674,7 @@ def _(md, md_numbered_list):
             "Select all the rows containing the series that we have chosen.",
             "Coerce all of the data to numeric.",
             "Drop the unnecessary columns, such as SCALE and Decimals.",
-            "Drop the column for 2011, as it doesn't have any data."
+            "Drop the column for 2011, as it doesn't have any data.",
             "Drop all rows that have empty values in the year columns.",
         ),
     )
