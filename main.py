@@ -667,7 +667,7 @@ def _(
                 list(zip(YEAR_RANGE_STR, row))
             )
 
-            # Remove the year range from the imputed row
+            # Remove the year from the imputed row
             imputed_row_data = [value for (_, value) in imputed_row]
 
             # Set the imputed row data to the imputed data
